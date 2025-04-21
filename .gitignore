@@ -1,0 +1,6 @@
+.env
+data
+app.log
+script.txt
+venv
+node_modules
